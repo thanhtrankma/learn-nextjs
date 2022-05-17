@@ -28,11 +28,6 @@ const userData = {
       imgUrl: "/hf.png",
     },
     {
-      title: "Algochurn",
-      link: "https://algochurn.com",
-      imgUrl: "/algochurn.png",
-    },
-    {
       title: "Propfit",
       link: "https://propfit.vn",
       imgUrl: "/propfit.png",
@@ -47,6 +42,11 @@ const userData = {
       link: "https://apps.apple.com/vn/app/dhomes-m%C3%B4i-gi%E1%BB%9Bi/id1547406722",
       imgUrl: "/dhomes.jpeg",
     },
+    {
+      title: "DHomes Agent App",
+      link: "https://play.google.com/store/apps/details?id=com.dhomes.agent&hl=vi&gl=US",
+      imgUrl: "/dhomes.jpeg",
+    },
   ],
   about: {
     title:
@@ -56,8 +56,8 @@ const userData = {
       `After learning HTML and struggling with CSS, I came up with a brilliant idea of using bootstrap so that I don't have to style everything by myself and - for obvious reasons - if you knew bootstrap, you were cool.`,
       `But now, I'm a frontend developer. I've been coding in React, Vue, Node.js, Bootstrap, Tailwind, C, Assembly and React Native. Although I barely know the syntax (Psst, Stack overflow!).`,
     ],
-    currentProject: "DHomes",
-    currentProjectUrl: "https://dhomes.com.vn/",
+    currentProject: "Propfit",
+    currentProjectUrl: "https://propfit.vn/",
   },
   experience: [
     {
